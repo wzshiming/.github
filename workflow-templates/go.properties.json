@@ -1,0 +1,8 @@
+{
+    "name": "Go cross build and release",
+    "description": "Go cross build and release",
+    "iconName": "",
+    "categories": [
+        "Go"
+    ]
+}
